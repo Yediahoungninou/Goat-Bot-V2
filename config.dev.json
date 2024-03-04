@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "tsama6610@gmail.com",
-    "password": "Rahim2006",
+    "email": "41385577",
+    "password": "belvida  ",
     "2FASecret": "922763",
     "i_user": "",
     "proxy": null,
@@ -36,7 +36,7 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "100050637524770"
+    "100078165545352"
   ],
   "whiteListMode": {
     "enable": false,
@@ -45,8 +45,8 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " TeTo IA ",
-  "prefix": "√",
+  "nickNameBot": " Pancrace IA ",
+  "prefix": "£",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
