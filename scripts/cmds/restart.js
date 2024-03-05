@@ -27,7 +27,7 @@ module.exports = {
 			restartting: "🔄 | Đang khởi động lại bot..."
 		},
 		en: {
-			restartting: "LOADING⚫🔴🔵"
+			restartting: "RÉNISIALISATION🌑🌒🌓🌔🌕"
 		}
 	},
 
