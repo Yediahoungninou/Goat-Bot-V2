@@ -157,7 +157,7 @@ module.exports = {
 
     if (senderID !== null) {
       message.reply({
-        body: 'make sure to watch full video🥵',
+        body: 'make sure to watch full video😎',
         attachment: await global.utils.getStreamFromURL(randomVideo),
       });
 
